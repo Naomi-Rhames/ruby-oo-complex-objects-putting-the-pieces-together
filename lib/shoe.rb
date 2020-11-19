@@ -41,8 +41,9 @@ def condition
 end
 
 def cobble
-    if condition 
+ 
     puts "Your shoe is as good as new!"
+    self.condition = "new"
 
 end
 
