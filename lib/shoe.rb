@@ -43,10 +43,7 @@ end
 def cobble
     if condition 
     puts "Your shoe is as good as new!"
-end
 
-def coble 
-  coble.condition("new")
 end
 
 end
